@@ -4,6 +4,12 @@
 
 \## Project Overview
 
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+https://student-stress-prediction-cm.streamlit.app
+
 
 
 This project predicts whether a student is likely to experience \*\*High Stress\*\* or \*\*Low Stress\*\* using supervised machine learning techniques based on academic, behavioural, and lifestyle-related factors.
@@ -187,6 +193,9 @@ However, Logistic Regression produced nearly identical performance while offerin
 \- Scikit-learn
 
 \- Jupyter Notebook
+
+\- Streamlit
+
 
 
 
